@@ -14,9 +14,9 @@ ps：在查询之前：
 在绑定个人信息之后就可以随意使用查询服务了！~~（在不出意外的情况下）~~
 若出现查询时指令无响应，请联系邀请bot进入群聊的人，说明情况。**（这很重要）**  
 **常见问题：**
-1.查询时出现ck/sk失效
-S：重新发送指令**扫码登录**或**登录（鸣潮）** 来重新绑定个人信息
-2.出现需要**绑定设备**
+1.查询时出现ck/sk失效  
+S：重新发送指令**扫码登录**或**登录（鸣潮）** 来重新绑定个人信息  
+2.出现需要**绑定设备**  
 S：使用**常用米游社**手机下载[该项目](https://mirror.ghproxy.com/https://raw.githubusercontent.com/forchannot/get_device_info/main/app/build/outputs/apk/debug/app-debug.apk)中编译的APK，并安装
 
 * 打开后点击按钮复制
