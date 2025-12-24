@@ -136,8 +136,8 @@ S：使用**常用米游社**手机[下载文件](https://github.com/qixiabanyi/
 ---
 
 感谢各位群友的支持！以上就是bot所拥有的大部分功能，欢迎大家随意使用哦！  
-***  
-扫码请我喝咖啡，求求了QAQ！<details>
+# 扫码请我喝咖啡，谢谢你！
+<details>
   <summary></summary>
   
   ![fca27dc669429cd5cb195f59b026ae4a](https://github.com/user-attachments/assets/ac08a7c9-887a-4608-b6c0-2b7467ce6cef)
